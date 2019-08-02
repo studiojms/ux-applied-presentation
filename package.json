@@ -1,0 +1,18 @@
+{
+  "name": "ux-applied-presentation",
+  "version": "1.0.0",
+  "description": "A presentation about UX applied on a real project: Syn4TDF",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "repository": "https://github.com/studiojms/ux-applied-presentation.git",
+  "author": "studiojms",
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^3.0.8"
+  },
+  "dependencies": {
+    "@mdx-deck/themes": "^3.0.8"
+  }
+}
