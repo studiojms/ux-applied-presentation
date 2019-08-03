@@ -10,9 +10,7 @@
   "author": "studiojms",
   "license": "MIT",
   "devDependencies": {
-    "mdx-deck": "^3.0.8"
+    "mdx-deck": "1.10.2"
   },
-  "dependencies": {
-    "@mdx-deck/themes": "^3.0.8"
-  }
+  "dependencies": {}
 }
